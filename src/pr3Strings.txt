@@ -1,0 +1,14 @@
+daily-rate=33
+indices=3;5;7;9
+account03=Tom
+transport03=7
+days03=3
+account05=Shelly
+transport05=13
+days05=8
+account07=Mark
+transport07=15
+days07=4
+account09=Sam
+transport09=19
+days09=2
